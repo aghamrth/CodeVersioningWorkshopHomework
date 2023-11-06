@@ -1,3 +1,5 @@
 # merging/summary.txt
 
 Merging is like combining changes from different branche(s) into one
+
+Merging in Github allow us to combine several changes from several branches to main/master
