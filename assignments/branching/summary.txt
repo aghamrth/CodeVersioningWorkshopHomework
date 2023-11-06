@@ -1,0 +1,4 @@
+# branching/summary.txt
+
+Branching is like creating a separate workspace without affecting main/master branch 
+until we're ready to merge our changes/update to main/master
